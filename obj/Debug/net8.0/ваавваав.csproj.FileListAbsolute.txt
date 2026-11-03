@@ -1,0 +1,14 @@
+/home/roman/programação/ваавваав/bin/Debug/net8.0/ваавваав
+/home/roman/programação/ваавваав/bin/Debug/net8.0/ваавваав.deps.json
+/home/roman/programação/ваавваав/bin/Debug/net8.0/ваавваав.runtimeconfig.json
+/home/roman/programação/ваавваав/bin/Debug/net8.0/ваавваав.dll
+/home/roman/programação/ваавваав/bin/Debug/net8.0/ваавваав.pdb
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.AssemblyInfoInputs.cache
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.AssemblyInfo.cs
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.csproj.CoreCompileInputs.cache
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.dll
+/home/roman/programação/ваавваав/obj/Debug/net8.0/refint/ваавваав.dll
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.pdb
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ваавваав.genruntimeconfig.cache
+/home/roman/programação/ваавваав/obj/Debug/net8.0/ref/ваавваав.dll
